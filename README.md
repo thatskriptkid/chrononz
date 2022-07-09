@@ -1,6 +1,8 @@
 # chrononz
 chrononz takes approximate (minimum) timestamp of a Golang ELF binary.
 
+More info in blogpost: [RU](https://www.orderofsixangles.com/ru/2022/07/09/goelf-time-ru.html)/[EN](https://www.orderofsixangles.com/en/2022/07/09/goelf-time-en.html)
+
 Algorithm:
 
 1. Get a list of 3rd party dependencies (using github.com/goretk/gore)
